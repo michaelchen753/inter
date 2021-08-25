@@ -3,7 +3,7 @@ import React, {useState} from 'react';
 
 export default function Interview1() {
 
-    const[count, setCount]=useState(7);
+    const[count, setCount]=useState(4);
     return (
         <div>
             <h1>{count}</h1>
